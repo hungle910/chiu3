@@ -1,0 +1,77 @@
+a {
+  text-decoration: none;
+}
+
+
+/* .email {
+  margin: 10px;
+  width: 300px;
+  height: 30px;
+  border-radius: 10px;
+}
+.password {
+  margin: 10px;
+  width: 300px;
+  height: 30px;
+  border-radius: 10px;
+} */
+
+
+header{
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgba(149, 95, 251, 0.637);
+  margin-left:450px ;
+  margin-right: 450px; ; 
+  padding-bottom: 100px;  
+  padding-top: 50px;
+  
+}
+
+body{
+  background-image:url(../img/menu/0a4dcb92fa2d3c601b58d72720d6bec4.jpg) ;
+  background-size: cover ;
+  font-family: 'Lobster', cursive; 
+  padding-top: 50px;
+}
+.btn{
+  text-align: center;
+  border-radius: 10px;
+  width: 150px;
+  padding: 10px 0px; 
+  cursor: pointer;
+  color: white;
+}
+.email{
+  margin: 10px;
+  width: 300px;
+  height: 30px;
+  border-radius: 10PX;
+}
+.password{
+  margin: 10px;
+  width: 300px;
+  height: 30px;
+  border-radius: 10px;
+}
+.error{
+  color: red;
+}
+.cursor-pointer{
+  cursor: pointer;
+}
+
+button{
+  background-image: url(../img/menu/220px-JoJo_no_Kimyou_na_Bouken_cover_-_vol1.jpg);
+
+}
+button:hover{
+  background-image: url(../img/menu/284-2840437_gunship-dark-all-day.jpg);
+  color:skyblue;
+}
+h1{
+  color: darkblue;
+}
+h1:hover{
+  color: darkmagenta;
+}

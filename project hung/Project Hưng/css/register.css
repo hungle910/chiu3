@@ -1,0 +1,71 @@
+
+
+
+
+
+#register-form{
+    padding: 20px;
+}
+
+
+.form-action{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+span{
+    margin-left:100px;
+}
+header{
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgba(95, 162, 251, 0.6);
+    margin-left:450px ;
+    margin-right: 450px; ; 
+    padding-bottom: 100px;  
+    padding-top: 50px;
+    
+}
+
+body{
+    background-image:url(../img/menu/neon-background--wallpaper.jpg) ;
+    background-size: cover ;
+    font-family: 'Lobster', cursive; 
+    padding-top: 50px;
+}
+.btn{
+    text-align: center;
+    border-radius: 10px;
+    width: 150px;
+    padding: 10px 0px; 
+    cursor: pointer;
+    color: white;
+}
+.input{
+    margin: 10px;
+    width: 300px;
+    height: 30px;
+    border-radius: 10PX;
+}
+
+.error{
+    color: red;
+}
+  .cursor-pointer{
+    cursor: pointer;
+}
+  
+button{
+    background-image: url(../img/menu/Sun_ken_rock_v01.jpg);
+
+}
+button:hover{
+    background-image: url(../img/menu/Darwin_s_Game_vol1_cover.jpeg);
+    color:skyblue;
+}
+h1{
+    color:purple;
+}
+h1:hover{
+    color:white;
+}

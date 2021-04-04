@@ -1,0 +1,45 @@
+
+
+
+.sanpham a img{
+    width: 250px;
+    height: 300px;
+}
+.sanpham img{
+    width: 250px;
+    height: 300px;
+}
+.sanpham{
+    background-color: white;
+    text-align: center;  
+    display: inline-block;  
+    width: 250px;
+    margin: 50px 50px 50px 80px;
+}
+
+header{
+   color: white;
+   padding: 50px;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+
+
+
+/* #sanpham{
+    position: relative;
+    z-index: 1;
+    background-color: white;
+    text-align: center;  
+    display: inline-block;  
+    width: 250px;
+    margin: 50px 50px 50px 80px;
+} */
+.UwU{
+    font-size: 100px;
+    margin: 50px;   
+
+}
